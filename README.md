@@ -1,8 +1,8 @@
-🟩 Hello ! I'm Ra-mi. Welcome to my page! 
+🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
 
-I’m an AI researcher and I love using 🟩 colors to visualize complex AI ideas. 
+I’m an AI researcher and I love seeing graphics and using 🟩 colors to visualize complex AI ideas. 
   
-*Rami is currently an AI Researcher at Assessment and Planning Department at UMass Boston. I am a Co-Founder, Tech Project Leader at the AI Fantastic Team.*
+*I am currently working at Assessment and Planning Department at UMass Boston. I am currently pursuing my PhD of Computational Science, Data Analytics. I am currently working at [Machine Psychology] (https://mpsych.org/), under the guidance of Professor Daniel Haehn.*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/rami_huu_nguyen_i_love_ai.png" alt="Rami Loves AI" width="300" height="300" style="border-radius:12px;">
@@ -10,10 +10,13 @@ I’m an AI researcher and I love using 🟩 colors to visualize complex AI idea
 
 **What I am currently doing is:** 
 
-🟩 Rami and my team, AI Fantastic are starting working on the paper called [Visualization Literacy](https://github.com/raminguyen/Visualization_Literacy) to evaluate Gen AI models's ability to intepret visual information on the charts. 
+🟩 I am currently working with my advisor, Professor Daniel Haehn, and Director of Planning and Assessment on evaluating Multimodal Large Language Models (MLLMS) on its performance to generate, and score essays that demonstrates evidence of critical thinking. 
 
 
 **What I accomplished so far with my team is:**
+
+---
+
 
 ---
 
