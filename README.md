@@ -2,7 +2,7 @@
 
 I’m an AI researcher and I love seeing graphics and using 🟩 colors to visualize complex AI ideas. 
   
-*I am currently working at Assessment and Planning Department at UMass Boston. I am currently pursuing my PhD of Computational Science, Data Analytics. I am currently working at [Machine Psychology] (https://mpsych.org/), under the guidance of Professor Daniel Haehn.*
+*I am currently working at Assessment and Planning Department at UMass Boston. I am currently pursuing my PhD of Computational Science, Data Analytics. I am currently working at [Machine Pyschology](https://mpsych.org/), under the guidance of Professor Daniel Haehn.*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/rami_huu_nguyen_i_love_ai.png" alt="Rami Loves AI" width="300" height="300" style="border-radius:12px;">
