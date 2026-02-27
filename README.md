@@ -1,6 +1,6 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
 
-I’m an AI researcher and I love seeing graphics and using 🟩 colors to visualize complex AI ideas. 
+I’m an AI researcher. I am currently in the middle of AI and Graphic. I love seeing graphics and using 🟩 colors to visualize complex AI ideas. 
   
 *I am currently working at Assessment and Planning Department at UMass Boston. I am currently pursuing my PhD of Computational Science, Data Analytics. I am currently working at [Machine Pyschology](https://mpsych.org/), under the guidance of Professor Daniel Haehn.*
 
