@@ -39,3 +39,15 @@ I am currently pursuing my PhD of Computational Science, Data Analytics at UMass
 <p align="center">
   Connect with me on LinkedIn to learn more about my work, projects, and entire career journey. 
 </p>
+
+🟩
+
+My Current Bots: 
+
+- [FlowBot](https://github.com/ramihuunguyen/FlowBot): FlowBot is an interactive chatbot that helps you compare how to get somewhere:transit, buses, biking, walking, and driving in one place.
+
+https://github.com/user-attachments/assets/9791bb73-52b1-483c-a1fc-f9ae88b77d2f
+
+ 
+
+
