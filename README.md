@@ -32,5 +32,5 @@ I am currently pursuing my PhD of Computational Science, Data Analytics at UMass
 </p>
 
 <p align="center">
-  Connect with me on LinkedIn to learn more about my work, projects, and journey in AI.
+  Connect with me on LinkedIn to learn more about my work, projects, and entire career journey. 
 </p>
