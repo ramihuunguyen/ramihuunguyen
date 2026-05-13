@@ -1,10 +1,6 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=180&section=header&text=RAMI%20NGUYEN&fontSize=40&fontColor=ffffff" />
-</p>
-
-<p align="center">
+<p align="left">
   I’m an AI researcher. I am currently in the middle of AI and Graphic. 
   I love seeing graphics and using 🟩 colors to visualize complex AI ideas.
 </p>
@@ -16,7 +12,7 @@ I love design multiple RAG systems to support users to expand their knowlege and
 I am currently pursuing my PhD of Computational Science, Data Analytics at UMass Boston.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/Ramimap.jpg" alt="Rami Loves AI" width="600" height="400" style="border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/Ramimap.jpg" width="700" height="400" style="border-radius:12px;">
 </p>
 
 <p align="center">
