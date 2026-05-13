@@ -13,13 +13,17 @@
   I’m an AI researcher. I am currently in the middle of AI and Graphic. 
   I love seeing graphics and using colors to visualize complex AI ideas.
   
-</p> 🟩
+</p> 
+
+🟩
 
 I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more.  
 I love design multiple RAG systems to support users to expand their knowlege and get useful, and accurate information.
 
 I am currently working at Assessment and Planning Department at UMass Boston.  
 I am currently pursuing my PhD of Computational Science, Data Analytics at UMass Boston.
+
+🟩
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/Ramimap.jpg" width="700" height="400" style="border-radius:12px;">
