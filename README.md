@@ -1,5 +1,9 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub!
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="400">
+</p>
+
 <p align="left">
   I’m an AI researcher. I am currently in the middle of AI and Graphic. 
   I love seeing graphics and using 🟩 colors to visualize complex AI ideas.
