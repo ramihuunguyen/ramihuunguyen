@@ -17,7 +17,8 @@
 
 🟩
 
-I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more.  
+I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more. (I will updated my bots in few days).
+
 I love design multiple RAG systems to support users to expand their knowlege and get useful, and accurate information.
 
 I am currently working at Assessment and Planning Department at UMass Boston.  
