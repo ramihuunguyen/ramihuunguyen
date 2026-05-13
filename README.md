@@ -1,69 +1,20 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
 
 I’m an AI researcher. I am currently in the middle of AI and Graphic. I love seeing graphics and using 🟩 colors to visualize complex AI ideas. 
+
+🟩 I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more. I love design multiple RAG systems to support users to expand their knowlege and get useful, and accurate information.
   
-*I am currently working at Assessment and Planning Department at UMass Boston. I am currently pursuing my PhD of Computational Science, Data Analytics. I am currently working at [Machine Pyschology](https://mpsych.org/), under the guidance of Professor Daniel Haehn.*
+*I am currently working at Assessment and Planning Department at UMass Boston. I am currently pursuing my PhD of Computational Science, Data Analytics at UMass Boston.
+
+🌐 Learn More About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/rami_huu_nguyen_i_love_ai.png" alt="Rami Loves AI" width="300" height="300" style="border-radius:12px;">
+  <a href="https://www.linkedin.com/in/ramihuunguyen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rami%20Huu%20Nguyen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
-**What I am currently doing is:** 
-
-🟩 I am currently working with my advisor, Professor Daniel Haehn, and Director of Planning and Assessment on evaluating Multimodal Large Language Models (MLLMS) on its performance to generate, and score essays that demonstrates evidence of critical thinking. 
-
-
-**What I accomplished so far with my team is:**
-
----
-
-
----
-
-[Graphical Perception](https://raminguyen.github.io/LLMP2/) 
-
----
-
-[Image Colorization](https://github.com/raminguyen/Image-Colorization) 
-
----
-
-[Knowledge Distillation](https://github.com/raminguyen/AI_For_All)
-
----
-
-🟩 I love branding myself since 2017 once I first studied in Singapore through impressive content, and fabulous colors. Curious more about my works?
-
-  Cool, explore more by clicking here to view [My Website](https://raminguyen.github.io/)
-
-🟩 **My Favorite Topics**
-
-🌟 AI | Multimodal Large Language Models | Graphical Perception | Machine Perception  
-🌟 Visualization Literacy | Deep Learning | Prompt Engineering  
-🌟 Data Visualization | Data Analysis | Market Research
-
-🟩 What I’m really proud of:
-
-Since August 7th, 2025, my AI Fantastic team has officially become an organization — a place where we grow as a team, contribute our work, create real impact, and most importantly, stay open-sourced. 
-
-
-🟩 My favorite tool are:
-
-<p align="left">
-  <!-- ML/AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-  
-  <!-- Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
-  
-  <!-- Web / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48"/>
+<p align="center">
+  Connect with me on LinkedIn to learn more about my work, projects, and journey in AI.
 </p>
 
