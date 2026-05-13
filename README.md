@@ -7,7 +7,7 @@ I’m an AI researcher. I am currently in the middle of AI and Graphic. I love s
 *I am currently working at Assessment and Planning Department at UMass Boston. I am currently pursuing my PhD of Computational Science, Data Analytics at UMass Boston.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/Ramimap.jpg" alt="Rami Loves AI" width="600" height="300" style="border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/Ramimap.jpg" alt="Rami Loves AI" width="600" height="400" style="border-radius:12px;">
 </p>
 
 🌐 Learn More About Me
