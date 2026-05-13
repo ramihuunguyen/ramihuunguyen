@@ -1,7 +1,14 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=AI+Researcher;AI+%2B+Graphics;Visualizing+Complex+Ideas;Powered+by+🟩+Green+Creativity" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:0f2027&height=250&section=header&text=AI%20Researcher&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20×%20Graphics%20×%20Visual%20Creativity&descAlignY=60"
+  />
+</p>
+
+<p align="center">
+I’m an AI researcher. I am currently in the middle of AI and Graphic. <br>
+I love seeing graphics and using 🟩 colors to visualize complex AI ideas.
 </p>
 
 <p align="center">
