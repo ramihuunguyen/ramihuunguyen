@@ -1,7 +1,7 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="700">
 </p>
 
 <p align="left">
