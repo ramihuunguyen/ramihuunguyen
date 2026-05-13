@@ -1,12 +1,18 @@
-🟩 Hello ! I'm Ra-mi. Welcome to my GitHub!
+🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
+🟩
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
 </p>
 
+🟩
+🟩
+
 <p align="left">
+  🟩
   I’m an AI researcher. I am currently in the middle of AI and Graphic. 
   I love seeing graphics and using 🟩 colors to visualize complex AI ideas.
+  🟩
 </p>
 
 🟩 I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more.  
