@@ -1,19 +1,11 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:0f2027&height=250&section=header&text=AI%20Researcher&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20×%20Graphics%20×%20Visual%20Creativity&descAlignY=60"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=180&section=header&text=RAMI%20NGUYEN&fontSize=40&fontColor=ffffff&animation=blinking" />
 </p>
 
 <p align="center">
-I’m an AI researcher. I am currently in the middle of AI and Graphic. <br>
-I love seeing graphics and using 🟩 colors to visualize complex AI ideas.
-</p>
-
-<p align="center">
-I’m an AI researcher currently exploring the intersection of AI and Graphic Design.
-I love transforming complex AI concepts into visual stories using 🟩 colors and creative graphics.
+🟩 AI Researcher • Graphic Explorer • Creative Visual Thinker
 </p>
 
 <p align="center">
