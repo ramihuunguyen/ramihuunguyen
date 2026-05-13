@@ -1,8 +1,8 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=900&lines=I’m+an+AI+Researcher;Blending+AI+%2B+Graphics;Visualizing+Complex+AI+Ideas+with+🟩+Green;Building+Creative+AI+Experiences" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q5eW1iM3V3b3FqN3Q0NjQ2M3R3bXJ5aWhnM2FjZXNqYzN4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="120">
+</p>
 
 <p align="center">
   I’m an AI researcher. I am currently in the middle of AI and Graphic. 
