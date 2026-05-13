@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-🟩 AI Researcher • Graphic Explorer • Creative Visual Thinker
-</p>
-
-<p align="center">
   I’m an AI researcher. I am currently in the middle of AI and Graphic. 
   I love seeing graphics and using 🟩 colors to visualize complex AI ideas.
 </p>
