@@ -17,7 +17,7 @@
 
 🟩
 
-I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more. (I will updated my bots in few days).
+I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more. See our bots at the bottom.
 
 I love design multiple RAG systems to support users to expand their knowlege and get useful, and accurate information.
 
@@ -44,7 +44,7 @@ I am currently pursuing my PhD of Computational Science, Data Analytics at UMass
 
 My Current Bots: 
 
-- [FlowBot](https://github.com/ramihuunguyen/FlowBot): FlowBot is an interactive chatbot that helps you compare how to get somewhere:transit, buses, biking, walking, and driving in one place.
+- [FlowBot](https://github.com/ramihuunguyen/FlowBot): An interactive chatbot that helps you compare how to get somewhere:transit, buses, biking, walking, and driving in one place.
 
 https://github.com/user-attachments/assets/9791bb73-52b1-483c-a1fc-f9ae88b77d2f
 
