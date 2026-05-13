@@ -1,6 +1,13 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my GitHub! 
 
-I’m an AI researcher. I am currently in the middle of AI and Graphic. I love seeing graphics and using 🟩 colors to visualize complex AI ideas. 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=900&lines=I’m+an+AI+Researcher;Blending+AI+%2B+Graphics;Visualizing+Complex+AI+Ideas+with+🟩+Green;Building+Creative+AI+Experiences" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  I’m an AI researcher. I am currently in the middle of AI and Graphic. 
+  I love seeing graphics and using 🟩 colors to visualize complex AI ideas.
+</p>
 
 🟩 I am leader for my three chatbots: *ThinkBot*, *EarlyEd Engine Bot*, *FlowBot*, and more. I love design multiple RAG systems to support users to expand their knowlege and get useful, and accurate information.
   
