@@ -6,7 +6,7 @@
 <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/452ed5ae-7ff4-45ff-befb-9713d6e28264" />
 
 <p align="left">
-Image credit: snoopy_usa
+Image credit: snoopy_usa. "Joe is cool. Rami is cool."
   </p>
 
 <p align="left">
