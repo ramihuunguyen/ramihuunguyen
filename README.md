@@ -2,9 +2,15 @@
 
 Hello ! I'm Rami Huu Nguyen. Welcome to my GitHub!
 
-I am in the process of learning, sketching, and designing my entire Readme now. It takes a bit time and work for me. 
+I am on the way to design and orchestrate things together to make this as crystallized and powerful application. 
 
-I am happy to connect with you through my LinkedIn: https://www.linkedin.com/in/ramihuunguyen/ 
+under the hood +  #generativeai #agenticai #llms #evaluation #computationalscience #human-ai-interaction 
+
+Field: #education #psychology and #computergraphic 
+
+<img width="736" height="1087" alt="image" src="https://github.com/user-attachments/assets/ae81dffc-b6a8-4332-9146-c1cd07af9889" />
+
+#learning #rag #ramihuunguyen #grow #popular #boston 
 
 </p>
  
