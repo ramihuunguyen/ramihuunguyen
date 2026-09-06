@@ -10,9 +10,7 @@ under the hood +  #generativeai #agenticai #llms #evaluation #computationalscien
 
 Field: #education #psychology and #computergraphic 
 
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ae81dffc-b6a8-4332-9146-c1cd07af9889" />
-
-#learning #rag #ramihuunguyen #grow #popular #boston 
+#learning #rag #ramihuunguyen #grow #popular #boston #design
 
 </p>
  
