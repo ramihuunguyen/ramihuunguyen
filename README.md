@@ -6,7 +6,7 @@ Hello ! I'm Rami Huu Nguyen. Welcome to my GitHub!
 
 Rami is on the way to design, harness, and orchestrate things together to make this as crystallized and powerful application. 
 
-under the hood +  #generativeai #agenticai #llms #evaluation #computationalscience #human-ai-interaction 
+under the hood +  #generativeai #aiagents #evaluation #computationalscience #human-ai-interaction 
 
 Field: #education #psychology and #computergraphic 
 
